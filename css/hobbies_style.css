@@ -1,0 +1,27 @@
+h2, h3 {color:darkslategrey;     
+    background-color: lightcoral;                    
+}             
+li {color:navy;       
+    background-color: aliceblue;                     
+}    
+table {border-style: double;
+       border-color: red;
+} 
+.navbar {
+    background-color: pink;
+    border-color: red;
+    font-size: 20px;
+    position: sticky;
+    top: 0px; 
+   
+}
+.navbar th{
+border: solid #000080;
+padding: 5px;
+}
+a:hover {
+    color: black;
+}
+.active {
+    background-color: aqua;
+}
